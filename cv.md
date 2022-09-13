@@ -1,8 +1,7 @@
 Sergei Chevdar
 ==============
 
-_Frontend Developer based in Belarus, Minsk_.
-
+_Frontend Developer based in Belarus, Minsk_  
 [Git](https://github.com/StarkElessar) / [Email](mailto:serj.elessar@gmail.com) / [Telegram](https://t.me/StarkElessar) / [Facebook](https://www.facebook.com/SerjElessar)
 
 I am enthusiastic frontend developer interested in building usable, useful,
@@ -16,8 +15,7 @@ I can spend up to 15 hours a day working and learning something new in the field
 
 ## 👨🏻‍🎓 Education
 
-Bachelor, Technical School "National Mining University", Pavlograd, Ukraine
-
+Bachelor, Technical School "National Mining University", Pavlograd, Ukraine  
 **Computer Engineering Faculty** _(September 2011 — June 2015)_
 
 ## 📌 Courses:
