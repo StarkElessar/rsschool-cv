@@ -1,7 +1,7 @@
 Sergei Chevdar
 ==============
 
-![Avatar](https://github.com/StarkElessar/rsschool-cv/raw/gh-pages/img/me.jpg)
+<img src="https://github.com/StarkElessar/rsschool-cv/raw/gh-pages/img/me.jpg" width="200px" alt="Avatar" />
 
 _Frontend Developer based in Belarus, Minsk_  
 [Git](https://github.com/StarkElessar) / [Email](mailto:serj.elessar@gmail.com) / [Telegram](https://t.me/StarkElessar) / [Facebook](https://www.facebook.com/SerjElessar)
