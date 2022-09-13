@@ -25,8 +25,6 @@ Bachelor, Technical School "National Mining University", Pavlograd, Ukraine
 * Introduction to programming, Hexlet _(March 2021 — May 2021)_
 * Web layout designer, WayUp _(January 2021 — February 2021)_
 
------------------------------------------------------------------
-
 ## Skills:
 
 * html / css / js
