@@ -14,13 +14,13 @@ to further improve my skills to become strong fullstack engineer.
 
 I can spend up to 15 hours a day working and learning something new in the field of web development.
 
-### 👨🏻‍🎓 Education
+## 👨🏻‍🎓 Education
 
 Bachelor, Technical School "National Mining University", Pavlograd, Ukraine
 
 **Computer Engineering Faculty** _(September 2011 — June 2015)_
 
-### 📌 Courses:
+## 📌 Courses:
 
 * JavaScript + React, Udemy _(August 2021 — Present)_
 * React JS - Way of the Samurai, IT-INCUBATOR _(July 2021 — Present)_
@@ -29,7 +29,7 @@ Bachelor, Technical School "National Mining University", Pavlograd, Ukraine
 
 -----------------------------------------------------------------
 
-### Skills:
+## Skills:
 
 * html / css / js
 * React.js / Redux / Redux-Thunk / React-Router-Dom
@@ -38,13 +38,13 @@ Bachelor, Technical School "National Mining University", Pavlograd, Ukraine
 * Gulp / Webpack
 * Git
 
-### Language:
+## Language:
 
 * Russian
 * Ukrainian
 * English (A0-A1)
 
-### Interests:
+## Interests:
 
 * Coding
 * Music Listening
